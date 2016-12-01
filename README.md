@@ -1,6 +1,6 @@
 ## Synopsis
 
-What is this? This is an example project using ReactJS and Redux to create an Instagram-like features. Users can login using this credentials for a demo:
+What is this? This is an example project using ReactJS and Redux to create an Instagram-like application. Users can login using this credentials for a demo:
 
 `Username: test`
 `Password: test` 
