@@ -32,6 +32,9 @@ Make sure to install packages in NPM using `npm install` and directly point your
     <li>
         React-Cookie - for saving users credentials using browsers' cookies: https://github.com/thereactivestack/react-cookie
     </li>
+      <li>
+        ESLint and ESLint-React - JS linting for React: http://eslint.org/ and https://www.npmjs.com/package/eslint-plugin-react
+    </li>
 </ul>
 
 ## Contributors
